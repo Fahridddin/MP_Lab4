@@ -1,7 +1,6 @@
 // lab4.dart
 // Fahriddin Hayitov
 // Lab 4 – Dart Console Programming Exercises
-// Tuesday 14:00
 
 // 1. Classes
 
